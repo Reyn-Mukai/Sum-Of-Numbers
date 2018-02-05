@@ -34,3 +34,5 @@ console.log(sumFor(test));
 console.log(sumWhile(test));
 console.log(sumRecursion(test, test.length));
 console.log(sumTheSimpleWay(test));
+
+// 13:33
